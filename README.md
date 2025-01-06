@@ -9,9 +9,9 @@ Database using Mongoose.js<br>
 Discord.js Develoer<br>
 
 # 🔝 Top Contributed Repo
-<p align="center">
-  ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=RoBoCRAFTYT01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</p>
+<span align="center">
+  ![](https://github-contributor-stats.vercel.app/api?username=RoBoCRAFTYT01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</span>
 <br>
 
 ## 🌐 Socials:
