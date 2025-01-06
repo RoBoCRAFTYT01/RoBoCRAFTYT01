@@ -15,7 +15,7 @@ Discord.js Develoer<br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raouf%20Raouf) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raouf._.159) 
-[![Discord : .cod_38](https://img.shields.io/badge/Discord-%23091dd3.svg?logo=Discord&logoColor=white)]
+![Discord : .cod_38](https://img.shields.io/badge/Discord-%23091dd3.svg?logo=Discord&logoColor=white)
 
 # 💻 Tech Stack:
 ## Web FrontEnd :
@@ -55,11 +55,9 @@ Discord.js Develoer<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RoBoCRAFTYT01&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RoBoCRAFTYT01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RoBoCRAFTYT01&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoBoCRAFTYT01&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RoBoCRAFTYT01&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
