@@ -2,9 +2,8 @@
 > **Web Developer using :**<br>
 HTML CSS JS Basic<br>
 SCSS and Tailwind for advanced Style<br>
-Learning React and I will start using React ts<br>
-Learn Typescript to develop my webs <br>
-experience in express and Node<br>
+React Ts in frontend side<br>
+experience in express and Node with Typescript<br>
 Database using Mongoose.js<br>
 Discord.js Develoer<br>
 
