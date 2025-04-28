@@ -5,8 +5,8 @@
 </p>
 
 
-<h2 algin="center">💫 About Me</h2>:
-<ul>
+<h2 align="center">💫 About Me:</h2>
+<ul align="center">
   <h3><bold>Web Developer using :</bold></h3>
   <li>FrontEnd: React, SASS, Tailwind</li>
   <li>BackEnd: Express, Next</li>
