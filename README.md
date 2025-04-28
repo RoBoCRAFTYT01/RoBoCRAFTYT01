@@ -6,12 +6,14 @@
 
 
 <h2 algin="center">💫 About Me</h2>:
-**Web Developer using :**
-- **FrontEnd:** React, SASS, Tailwind
-- **BackEnd:** Express, Next
-- **DataBase:** mongoDB, SQL
-- Use Typescript in all my projects
-- Other Skills: Discord Bots
+<ul>
+  <h3><bold>Web Developer using :</bold></h3>
+  <li>FrontEnd: React, SASS, Tailwind</li>
+  <li>BackEnd: Express, Next</li>
+  <li>DataBase: mongoDB, SQL</li>
+  <li>Use Typescript in all my projects</li>
+  <li>ther Skills: Discord Bots</li>
+</ul>
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raouf%20Raouf) 
