@@ -1,7 +1,7 @@
 <h1 align="center">Hello i am Elorabi Abd Erraouf</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;Discord.js+Enthusiast;Lover+of+TypeScript+%26+Bun" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;Discord.js+Expert;Use+all+of+TypeScript+%26+Bun" />
 </p>
 
 
