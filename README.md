@@ -16,6 +16,7 @@
 </ul>
 
 <h2 align="center">💻 Tech Stack:</h2>
+
 - **Web FrontEnd :**
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,sass,ts,tailwind" alt="web frontend"/>
@@ -55,9 +56,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoBoCRAFTYT01&theme=tokyonight" height="180px"/>
 </div>
 
-#🖇️ Connect with Me
+# 🖇️ Connect with Me
 <p align="center">
-  <a href="https://discord.com/users/YourDiscordID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://discord.com/users/695223884735053905"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="elorabi.abdelrraouf.2007@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
