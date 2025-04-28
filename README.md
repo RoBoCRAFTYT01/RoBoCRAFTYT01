@@ -5,7 +5,7 @@
 </p>
 
 
-# 💫 About Me:
+<h2 algin="center">💫 About Me</h2>:
 **Web Developer using :**
 - **FrontEnd:** React, SASS, Tailwind
 - **BackEnd:** Express, Next
@@ -20,22 +20,34 @@
 
 # 💻 Tech Stack:
 - **Web FrontEnd :**
-<img src="https://skillicons.dev/icons?i=react,html,css,sass,ts,tailwind" alt="web frontend" align="center"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,sass,ts,tailwind" alt="web frontend"/>
+</p>
 
 - **Web BackEnd :**
-<img src="https://skillicons.dev/icons?i=express,next,ts,nodejs" alt="web backend" align="center"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=express,next,ts,nodejs" alt="web backend"/>
+</p>
 
 - **Databse :**
-<img src="https://skillicons.dev/icons?i=mongodb,wordpress,mysql" alt="database" align="center"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,wordpress,mysql" alt="database"/>
+</p>
 
 - **Security && Hosting :**
-<img src="https://skillicons.dev/icons?i=vercel,netlify" alt="security" align="center"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="security"/>
+</p>
 
 - **Package Manager :**
-<img src="https://skillicons.dev/icons?i=npm,bun,yarn,pnpm" alt="security" align="center"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=npm,bun,yarn,pnpm" alt="security"/>
+</p>
 
 - **Design & Video Editing :**
-<img src="https://skillicons.dev/icons?i=figma,ps,pr" alt="design" align="center"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr" alt="design"/>
+</p>
 
 - **Languages :**
 <img src="https://skillicons.dev/icons?i=js,py,php,c,lua" alt="addons skills" align="center"/>
