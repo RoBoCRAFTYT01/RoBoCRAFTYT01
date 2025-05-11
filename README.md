@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=express,next,ts,nodejs" alt="web backend"/>
 </p>
 
-- **Databse :**
+- **Database :**
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,wordpress,mysql" alt="database"/>
 </p>
